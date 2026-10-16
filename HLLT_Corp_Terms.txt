@@ -1,0 +1,34 @@
+HLLT CORP - GENERAL TERMS OF SERVICE
+Last Updated: October 15, 2026
+
+Welcome to HLLT Corp. Please read these Terms of Service ("Terms") carefully before using our websites, software extensions, applications, AI models, API interfaces, or related services (collectively, the "Services"). By accessing or using our Services, you agree to be bound by these Terms and all applicable laws.
+
+1. ACCEPTANCE OF TERMS
+By accessing, browsing, downloading, or interacting with any Service provided by HLLT Corp, you confirm your acceptance of these Terms. If you do not agree to these Terms, you must immediately cease all use of our Services.
+
+2. ELIGIBILITY AND ACCOUNT SECURITY
+You must be at least 13 years old to use our Services (or the minimum legal age required in your country). If you create an account, you are entirely responsible for maintaining the confidentiality of your credentials, security access pins, and API keys. You agree to immediately notify HLLT Corp of any unauthorized access or data breach.
+
+3. INTELLECTUAL PROPERTY RIGHTS
+All custom codebase, software architectures, artificial intelligence model weights, website interfaces, graphics, text, and brand elements (including the HLLT Corp trademark, copyrights, and logos) are the exclusive property of HLLT Corp and are protected by federal and international intellectual property laws. You may not copy, reverse-engineer, modify, or redistribute our proprietary software without explicit, written authorization.
+
+4. USER CONDUCT & PROHIBITED USES
+You agree to use our Services strictly for lawful purposes. You are explicitly prohibited from using our platforms, APIs, or AI architectures to:
+- Generate, distribute, or facilitate malicious code, viruses, ransomware, or cyber exploits.
+- Attempt to bypass, brute-force, or disable any security features, network firewalls, or physical access systems.
+- Impersonate any individual, corporate identity, or government organization.
+- Scrape, harvest, or drain system data or engage in automated attacks that degrade service infrastructure.
+
+5. THIRD-PARTY DISCLAIMERS AND OPEN-SOURCE ACCORDS
+Certain Services may utilize open-source frameworks, underlying foundational models, or professional security layers (such as Meta Llama architectures or ADT monitoring connections). Your use of these specific features is subject to their respective community licenses and corporate policies. HLLT Corp operates completely independently of these third-party corporations.
+
+6. LIMITATION OF LIABILITY & "AS-IS" DISCLAIMER
+ALL SERVICES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. HLLT CORP DOES NOT WARRANT THAT THE SERVICES WILL BE ERROR-FREE, UNINTERRUPTED, OR FREE OF HALLUCINATIONS OR INACCURACIES. IN NO EVENT SHALL HLLT CORP BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF YOUR USE OF OR INABILITY TO USE THE SERVICES.
+
+7. TERMINATION OF ACCESS
+HLLT Corp reserves the right, in its sole discretion and without prior notice, to terminate your access to our Services, invalidate API credentials, or block your account for any violation of these Terms or behavior that poses a threat to our security infrastructure.
+
+8. GOVERNING LAW
+These Terms shall be governed by, interpreted, and enforced in accordance with the laws of the State of South Carolina, United States, without regard to its conflict of law principles.
+
+If you have any questions or require formal authorization regarding these terms, please contact HLLT Corp corporate compliance.
