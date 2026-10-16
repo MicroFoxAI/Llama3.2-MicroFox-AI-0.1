@@ -7,10 +7,10 @@ Welcome to HLLT Corp. Please read these Terms of Service ("Terms") carefully bef
 By accessing, browsing, downloading, or interacting with any Service provided by HLLT Corp, you confirm your acceptance of these Terms. If you do not agree to these Terms, you must immediately cease all use of our Services.
 
 2. ELIGIBILITY AND ACCOUNT SECURITY
-You must be at least 13 years old to use our Services (or the minimum legal age required in your country). If you create an account, you are entirely responsible for maintaining the confidentiality of your credentials, security access pins, and API keys. You agree to immediately notify HLLT Corp of any unauthorized access or data breach.
+Do To COPPA In The United States Where This HLLT Was Made And Currently Being Hosted You must be at least 13 years old to use our Services (or the minimum legal age required in your country). If you create an account, you are entirely responsible for maintaining the confidentiality of your credentials, security access pins, and API keys. You agree to immediately notify HLLT Corp of any unauthorized access or data breach.
 
 3. INTELLECTUAL PROPERTY RIGHTS
-All custom codebase, software architectures, artificial intelligence model weights, website interfaces, graphics, text, and brand elements (including the HLLT Corp trademark, copyrights, and logos) are the exclusive property of HLLT Corp and are protected by federal and international intellectual property laws. You may not copy, reverse-engineer, modify, or redistribute our proprietary software without explicit, written authorization.
+All custom codebase, software architectures, artificial intelligence model weights, website interfaces, graphics, text, and brand elements (including the HLLT Corp copyrights, and logos) are the exclusive property of HLLT Corp and are protected by automatic federal and international intellectual property laws. You may not copy, reverse-engineer, modify, or redistribute our proprietary software without explicit, written authorization.
 
 4. USER CONDUCT & PROHIBITED USES
 You agree to use our Services strictly for lawful purposes. You are explicitly prohibited from using our platforms, APIs, or AI architectures to:
@@ -29,6 +29,6 @@ ALL SERVICES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANT
 HLLT Corp reserves the right, in its sole discretion and without prior notice, to terminate your access to our Services, invalidate API credentials, or block your account for any violation of these Terms or behavior that poses a threat to our security infrastructure.
 
 8. GOVERNING LAW
-These Terms shall be governed by, interpreted, and enforced in accordance with the laws of the State of South Carolina, United States, without regard to its conflict of law principles.
+These Terms shall be governed by, interpreted, and enforced in accordance with the laws of the US State of South Carolina, United States, without regard to its conflict of law principles.
 
 If you have any questions or require formal authorization regarding these terms, please contact HLLT Corp corporate compliance.
